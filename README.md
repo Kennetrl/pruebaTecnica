@@ -108,7 +108,7 @@ Hibernate crea/actualiza la tabla automáticamente (`spring.jpa.hibernate.ddl-au
 
 ## 2. Frontend
 
-En Docker se construye con `npm run build` y se sirve con `vite preview` (puerto `4173` del contenedor, mapeado al `5173` del host).
+En Docker se construye con `npm run build` y se sirve con `vite preview` en el puerto `5173`.
 
 ### Opción manual (sin Docker, modo desarrollo)
 
