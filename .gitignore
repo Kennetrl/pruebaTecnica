@@ -1,21 +1,19 @@
 ### BACKEND ###
 backend/HELP.md
 backend/target/
-backend/.mvn/wrapper/maven-wrapper.jar
-backend/!**/src/main/**/target/
-backend/!**/src/test/**/target/
+backend/.env
 
-### STS ###
+### STS / Eclipse ###
 backend/.apt_generated
 backend/.classpath
 backend/.factorypath
 backend/.project
-backend/.settings
+backend/.settings/
 backend/.springBeans
 backend/.sts4-cache
 
 ### IntelliJ IDEA ###
-backend/.idea
+backend/.idea/
 backend/*.iws
 backend/*.iml
 backend/*.ipr
@@ -27,12 +25,6 @@ backend/dist/
 backend/nbdist/
 backend/.nb-gradle/
 backend/build/
-backend/!**/src/main/**/build/
-backend/!**/src/test/**/build/
 
 ### VS Code ###
 backend/.vscode/
-
-### Proyecto ####
-backend/application.properties
-
