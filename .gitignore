@@ -3,6 +3,14 @@ backend/HELP.md
 backend/target/
 backend/.env
 
+### VS Code ###
+backend/.vscode/
+
+
+### FRONTEND###
+frontend/node_modules/
+frontend/dist/
+
 ### STS / Eclipse ###
 backend/.apt_generated
 backend/.classpath
@@ -26,5 +34,3 @@ backend/nbdist/
 backend/.nb-gradle/
 backend/build/
 
-### VS Code ###
-backend/.vscode/
